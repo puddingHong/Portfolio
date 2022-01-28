@@ -19,3 +19,6 @@
 - ppt
 ---
 ## Personal_Project
+* [ Open CV ) LBP알고리즘으로 얼굴 인식하기 ](https://jolly-cactus-19f.notion.site/OpenCV-1fb32c9ed0bc42cd85e3d25e262808e8)
+    * 프로젝트 기간 : 2021.01.03~2021.01.07
+    * 소스코드 :
