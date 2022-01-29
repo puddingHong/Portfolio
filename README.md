@@ -12,7 +12,6 @@
 - python
 ---
 ## Team_Project
-#### 프로젝트
 * [KoNLPy ) 다양한 형태소 분석기로 영화 리뷰 평점 예측하기 ](https://jolly-cactus-19f.notion.site/KoNLPy-e74703a1185a4adc953923c46754a515)
     * 프로젝트 기간 : 2021.01.10 ~ 2021.01.14
     * 역할 : 데이터 크롤링, 전처리, Kkma로 자연어 처리한 모델 구현, 모델 성능 개선, ppt제작
