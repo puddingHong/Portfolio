@@ -25,7 +25,6 @@
 * [여러 사이트 크롤링 해보기](노션 주소)
     * 프로젝트 기간 :
     * [소스코드 확인](https://github.com/puddingHong/LBP.git)
-    * 기타 내용은 [블로그 포스트 확인](블로그 주소)
 ⠀⠀⠀    
 ⠀⠀⠀    
 * [ Open CV ) LBP알고리즘으로 얼굴 인식하기 ](https://jolly-cactus-19f.notion.site/LBP-1fb32c9ed0bc42cd85e3d25e262808e8)
